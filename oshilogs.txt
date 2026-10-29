@@ -12,47 +12,51 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Regiva =====
-[1]Regiva      |06:26:47 | 28-10-2026| login OK @zregiva | score=2310 rank=3296
-[1]Regiva      |06:26:47 | 28-10-2026| serverTime=2026-10-28T06:26:47.000Z local=2026-10-28T06:26:47.306Z
+[1]Regiva      |06:37:48 | 29-10-2026| login OK @zregiva | score=2390 rank=3188
+[1]Regiva      |06:37:48 | 29-10-2026| serverTime=2026-10-29T06:37:48.000Z local=2026-10-29T06:37:48.898Z
 --> [1]Regiva menjalankan: Claim Daily
-[1]Regiva      |06:26:48 | 28-10-2026| daily: OK +10 poin score=2320
---> [1]Regiva menjalankan: Auto All Tasks (7 pending)
-[1]Regiva      |06:26:50 | 28-10-2026| [1/7] 87ae8b6e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/zregiva/status/2115328826865237515
-[1]Regiva      |06:26:50 | 28-10-2026| delay 10s...
-[1]Regiva      |06:27:01 | 28-10-2026| [2/7] 569b202e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/zregiva/status/2115329074584347021
-[1]Regiva      |06:27:01 | 28-10-2026| delay 10s...
-[1]Regiva      |06:27:13 | 28-10-2026| [3/7] 1c315c65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/zregiva/status/2115329106507579134
-[1]Regiva      |06:27:13 | 28-10-2026| delay 10s...
-[1]Regiva      |06:27:25 | 28-10-2026| [4/7] 3f7b08ea (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/zregiva/status/2115329087935648623
-[1]Regiva      |06:27:25 | 28-10-2026| delay 10s...
-[1]Regiva      |06:27:37 | 28-10-2026| [5/7] 84429acd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/zregiva/status/2115329283392872845
-[1]Regiva      |06:27:37 | 28-10-2026| delay 10s...
-[1]Regiva      |06:27:49 | 28-10-2026| [6/7] 6c6d6f6f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/zregiva/status/2115329354948157779
-[1]Regiva      |06:27:49 | 28-10-2026| delay 10s...
-[1]Regiva      |06:28:01 | 28-10-2026| [7/7] f12f3018 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/zregiva/status/2115329191485549641
-[1]Regiva      |06:28:01 | 28-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Regiva      |06:28:02 | 28-10-2026| [1/1] 87ae8b6e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115068456987189 | proof=https://x.com/zregiva/status/2115329295868721563
+[1]Regiva      |06:37:50 | 29-10-2026| daily: OK +10 poin score=2400
+--> [1]Regiva menjalankan: Auto All Tasks (9 pending)
+[1]Regiva      |06:37:51 | 29-10-2026| [1/9] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/zregiva/status/2115694131019822885
+[1]Regiva      |06:37:51 | 29-10-2026| delay 10s...
+[1]Regiva      |06:38:03 | 29-10-2026| [2/9] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/zregiva/status/2115694054851826868
+[1]Regiva      |06:38:03 | 29-10-2026| delay 10s...
+[1]Regiva      |06:38:15 | 29-10-2026| [3/9] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/zregiva/status/2115694200612337317
+[1]Regiva      |06:38:15 | 29-10-2026| delay 10s...
+[1]Regiva      |06:38:26 | 29-10-2026| [4/9] c0149815 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/zregiva/status/2115694203267874733
+[1]Regiva      |06:38:26 | 29-10-2026| delay 10s...
+[1]Regiva      |06:38:38 | 29-10-2026| [5/9] 3a2ebc56 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/zregiva/status/2115694159915464191
+[1]Regiva      |06:38:38 | 29-10-2026| delay 10s...
+[1]Regiva      |06:38:50 | 29-10-2026| [6/9] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/zregiva/status/2115694326401101438
+[1]Regiva      |06:38:50 | 29-10-2026| delay 10s...
+[1]Regiva      |06:39:02 | 29-10-2026| [7/9] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/zregiva/status/2115694305968125227
+[1]Regiva      |06:39:02 | 29-10-2026| delay 10s...
+[1]Regiva      |06:39:14 | 29-10-2026| [8/9] 8545d68c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/zregiva/status/2115694627628260276
+[1]Regiva      |06:39:14 | 29-10-2026| delay 10s...
+[1]Regiva      |06:39:26 | 29-10-2026| [9/9] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944
+[1]Regiva      |06:39:26 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Regiva      |06:39:27 | 29-10-2026| [1/1] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115605314649444 | proof=https://x.com/zregiva/status/2115694370104953739
 --> [1]Regiva menjalankan: Watch Anime
-[1]Regiva      |06:28:03 | 28-10-2026| watch: semua video sudah completed
+[1]Regiva      |06:39:28 | 29-10-2026| watch: semua video sudah completed
 --> [1]Regiva menjalankan: Read Article
-[1]Regiva      |06:28:04 | 28-10-2026| news: 30/30 artikel selesai dibaca
-[1]Regiva      |06:28:05 | 28-10-2026| mint eligibility: {"userId":"1927169529194401792","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@zregiva","status":"submitted","revision":"9197674b-7088-4b39-8b6b-c2a34d46d19c",
-[1]Regiva      |06:28:05 | 28-10-2026| news: semua artikel sudah dibaca
+[1]Regiva      |06:39:29 | 29-10-2026| news: 30/30 artikel selesai dibaca
+[1]Regiva      |06:39:30 | 29-10-2026| mint eligibility: {"userId":"1927169529194401792","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@zregiva","status":"submitted","revision":"9197674b-7088-4b39-8b6b-c2a34d46d19c",
+[1]Regiva      |06:39:30 | 29-10-2026| news: semua artikel sudah dibaca
 --> [1]Regiva menjalankan: Quiz Anime
 --> [1]Regiva menjalankan: Music Missions (realtime, bisa lama!)
-[1]Regiva      |06:28:07 | 28-10-2026| music: kedua misi sudah tercapai, stop
-[1]Regiva      |06:28:07 | 28-10-2026| mission music-listens-10: sudah diklaim
-[1]Regiva      |06:28:07 | 28-10-2026| mission music-minutes-30: sudah diklaim
-[1]Regiva      |06:28:07 | 28-10-2026| mission anime-completed-3: sudah diklaim
+[1]Regiva      |06:39:32 | 29-10-2026| music: kedua misi sudah tercapai, stop
+[1]Regiva      |06:39:33 | 29-10-2026| mission music-listens-10: sudah diklaim
+[1]Regiva      |06:39:33 | 29-10-2026| mission music-minutes-30: sudah diklaim
+[1]Regiva      |06:39:33 | 29-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Regiva menjalankan: Claim Missions
-[1]Regiva      |06:28:08 | 28-10-2026| mission music-listens-10: sudah diklaim
-[1]Regiva      |06:28:08 | 28-10-2026| mission music-minutes-30: sudah diklaim
-[1]Regiva      |06:28:08 | 28-10-2026| mission anime-completed-3: sudah diklaim
+[1]Regiva      |06:39:33 | 29-10-2026| mission music-listens-10: sudah diklaim
+[1]Regiva      |06:39:33 | 29-10-2026| mission music-minutes-30: sudah diklaim
+[1]Regiva      |06:39:33 | 29-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Regiva menjalankan: Check Eligibility
 
 --- eligibility [1]Regiva ---
-  @zregiva | score=2310 rank=3296
-  tasks    [############--------] 10/17
+  @zregiva | score=2390 rank=3188
+  tasks    [#########-----------] 8/17
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -63,15 +67,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Regiva menjalankan: Read Manga
-[1]Regiva      |06:28:12 | 28-10-2026| manga: 0/13 chapter belum completed
+[1]Regiva      |06:39:36 | 29-10-2026| manga: 0/13 chapter belum completed
 --> [1]Regiva menjalankan: Get Gift
-[1]Regiva      |06:28:12 | 28-10-2026| gift: 1/5 belum diterima
-[1]Regiva      |06:28:13 | 28-10-2026| gift [1/1] Oshii animated GIFs: OK
+[1]Regiva      |06:39:37 | 29-10-2026| gift: 0/5 belum diterima
 --> [1]Regiva menjalankan: Setup Profile
-[1]Regiva      |06:28:16 | 28-10-2026| profile: bio="https://x.com/zregiva" fav=kagura rewardAt=1791687970
-[1]Regiva      |06:28:16 | 28-10-2026| profile: bonus sudah diklaim, skip
+[1]Regiva      |06:39:37 | 29-10-2026| profile: bio="https://x.com/zregiva" fav=kagura rewardAt=1791687970
+[1]Regiva      |06:39:37 | 29-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Regiva menjalankan: Bind Wallet
-[1]Regiva      |06:28:16 | 28-10-2026| wallet: sudah terikat A5bJ7i2V7m... (solana)
+[1]Regiva      |06:39:38 | 29-10-2026| wallet: sudah terikat A5bJ7i2V7m... (solana)
 
 == RINGKASAN ==
-- Regiva: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/5 diterima | profile - | wallet bound | mint req=false open=false
+- Regiva: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
